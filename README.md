@@ -1,4 +1,4 @@
-# Project Assignment: Minimum Viable Product (MVP) Development
+# Project: Minimum Viable Product (MVP) Development
 
 ## Objective
 Develop a Minimum Viable Product (MVP) using Java that demonstrates the core Object-Oriented Programming (OOP) concepts covered in materials: V1.0, V2.0, V3.0, and V4.0.
@@ -39,7 +39,7 @@ Your MVP should be a cohesive Java application (e.g., a simple console-based man
 3. **Readme/Documentation:** Your repository must include a `README.md` file with a brief explanation of your MVP, how to compile/run it, and specific file/line references indicating where each of the core OOP concepts (V1.0 - V4.0) is demonstrated in your code.
 4. **Demonstration:** Be prepared to present a short demonstration of your running application.
 
-## Evaluation Criteria (Total Mark: 15)
+## Evaluation Criteria
 - Correct application of OOP principles.
 - Code quality, readability, and use of standard Java naming conventions.
 - Functionality of the MVP.
