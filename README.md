@@ -1,4 +1,3 @@
-# OOP-MVP
 # Project Assignment: Minimum Viable Product (MVP) Development
 
 ## Objective
@@ -35,9 +34,10 @@ Your MVP should be a cohesive Java application (e.g., a simple console-based man
 - Use superclass references to manipulate subclass objects dynamically.
 
 ## Deliverables
-1. **Source Code:** Well-commented Java (`.java`) files.
-2. **Readme/Documentation:** A brief explanation of your MVP, including what it does, how to compile/run it, and specific file/line references indicating where each of the core OOP concepts (V1.0 - V4.0) is demonstrated in your code.
-3. **Demonstration:** Be prepared to present a short demonstration of your running application.
+1. **Git Repository Link:** Submit a link to a Git repository (e.g., GitHub, GitLab, Bitbucket) containing your full project.
+2. **Source Code:** Ensure the repository contains all your well-commented Java (`.java`) files.
+3. **Readme/Documentation:** Your repository must include a `README.md` file with a brief explanation of your MVP, how to compile/run it, and specific file/line references indicating where each of the core OOP concepts (V1.0 - V4.0) is demonstrated in your code.
+4. **Demonstration:** Be prepared to present a short demonstration of your running application.
 
 ## Evaluation Criteria (Total Mark: 15)
 - Correct application of OOP principles.
