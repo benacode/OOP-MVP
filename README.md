@@ -3,10 +3,6 @@
 ## Objective
 Develop a Minimum Viable Product (MVP) using Java that demonstrates the core Object-Oriented Programming (OOP) concepts covered in materials: V1.0, V2.0, V3.0, and V4.0.
 
-## Important Dates
-- **Submission Date:** May 29, 2026
-- **Presentation Date:** May 30, 2026
-
 ## Reference Materials
 - **V1.0:** Introduction to OOP in Java
 - **V2.0:** Core OOP Concepts in Java
