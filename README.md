@@ -2,7 +2,7 @@
 # Project Assignment: Minimum Viable Product (MVP) Development
 
 ## Objective
-Develop a Minimum Viable Product (MVP) using Java that demonstrates the core Object-Oriented Programming (OOP) concepts covered in our course materials: V1.0, V2.0, V3.0, and V4.0.
+Develop a Minimum Viable Product (MVP) using Java that demonstrates the core Object-Oriented Programming (OOP) concepts covered in materials: V1.0, V2.0, V3.0, and V4.0.
 
 ## Important Dates
 - **Submission Date:** May 29, 2026
